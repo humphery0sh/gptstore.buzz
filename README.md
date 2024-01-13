@@ -10,7 +10,7 @@ New UI is coming soon!
 <a target="_blank" href="https://www.gptstore.buzz/gpts">Apply to our search API →</a>  
 
 
-<a target="_blank" href="[https://forms.gle/VBpnhL6HgkFTveCAA](https://docs.google.com/forms/d/e/1FAIpQLSdfVlb20bCRqNAYK_7FA9UEu6-PHPubed1Rdh7PBWV3G-lrgA/viewform)">Submit your GPTs here →</a>  
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdfVlb20bCRqNAYK_7FA9UEu6-PHPubed1Rdh7PBWV3G-lrgA/viewform">Submit your GPTs here →</a>  
 
 ## Get your GPTs indexed
 
